@@ -1,2 +1,2 @@
 # gasCost
-A primitive application to calculate gas cost
+A primitive application to calculate gas cost!
